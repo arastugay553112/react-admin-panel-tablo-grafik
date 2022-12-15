@@ -30,11 +30,7 @@ const activeMenu=false;
             Sidebar w-0
           </div>
         )}
-        <div className={
-          activeMenu ? 'dark:bg-main-bg bg-main-bg min-h-screen'
-        }>
 
-        </div>
       </div>
       </BrowserRouter>
     </div>
