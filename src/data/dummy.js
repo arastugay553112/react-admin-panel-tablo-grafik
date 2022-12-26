@@ -872,33 +872,33 @@ export const userProfileData = [
 
 export const ordersGrid = [
   {
-    headerText: 'Image',
+    headerText: 'Resim',
     template: gridOrderImage,
     textAlign: 'Center',
     width: '120',
   },
   {
     field: 'OrderItems',
-    headerText: 'Item',
+    headerText: 'Değer',
     width: '150',
     editType: 'dropdownedit',
     textAlign: 'Center',
   },
   { field: 'CustomerName',
-    headerText: 'Customer Name',
+    headerText: 'Müşteri Adı',
     width: '150',
     textAlign: 'Center',
   },
   {
     field: 'TotalAmount',
-    headerText: 'Total Amount',
+    headerText: 'Toplam tutar',
     format: 'C2',
     textAlign: 'Center',
     editType: 'numericedit',
     width: '150',
   },
   {
-    headerText: 'Status',
+    headerText: 'Durum',
     template: gridOrderStatus,
     field: 'OrderItems',
     textAlign: 'Center',
@@ -913,7 +913,7 @@ export const ordersGrid = [
 
   {
     field: 'Location',
-    headerText: 'Location',
+    headerText: 'Konum',
     width: '150',
     textAlign: 'Center',
   },
