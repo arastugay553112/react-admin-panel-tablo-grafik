@@ -927,7 +927,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -939,7 +939,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -954,7 +954,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -968,7 +968,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -997,7 +997,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1009,7 +1009,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1024,7 +1024,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1038,7 +1038,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1067,7 +1067,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1079,7 +1079,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1094,7 +1094,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1108,7 +1108,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1137,7 +1137,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1149,7 +1149,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1164,7 +1164,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1178,7 +1178,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1207,7 +1207,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1219,7 +1219,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1234,7 +1234,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1248,7 +1248,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1277,7 +1277,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1289,7 +1289,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1304,7 +1304,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1318,7 +1318,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1347,7 +1347,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1359,7 +1359,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1374,7 +1374,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1388,7 +1388,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -1417,7 +1417,7 @@ export const customersData = [
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
-    Status: 'Active',
+    Status: 'Aktif',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
@@ -1429,7 +1429,7 @@ export const customersData = [
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
     ProjectName: 'Elite Admin',
-    Status: 'Active',
+    Status: 'Aktif',
     CustomerImage:
       avatar3,
 
@@ -1444,7 +1444,7 @@ export const customersData = [
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
     ProjectName: 'Real Homes WP Theme',
-    Status: 'Pending',
+    Status: 'bekliyor',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
@@ -1457,7 +1457,7 @@ export const customersData = [
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
-    Status: 'Completed',
+    Status: 'Tamamlandı',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
@@ -2129,7 +2129,7 @@ export const ordersData = [
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       product6,
@@ -2140,7 +2140,7 @@ export const ordersData = [
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product5,
@@ -2151,7 +2151,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
     Location: 'New York',
-    Status: 'active',
+    Status: 'Aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product7,
@@ -2162,7 +2162,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
     Location: 'Germany',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product4,
@@ -2173,7 +2173,7 @@ export const ordersData = [
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
     Location: 'Spain',
-    Status: 'rejected',
+    Status: 'Reddedilmiş',
     StatusBg: 'red',
     ProductImage:
     product1,
@@ -2184,7 +2184,7 @@ export const ordersData = [
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product2,
@@ -2195,7 +2195,7 @@ export const ordersData = [
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
     Location: 'USA',
-    Status: 'active',
+    Status: 'Aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product3,
@@ -2206,7 +2206,7 @@ export const ordersData = [
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
     Location: 'USA',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product4,
@@ -2217,7 +2217,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
@@ -2228,7 +2228,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2239,7 +2239,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-free-ice-cream-eae372d.jpg',
@@ -2250,7 +2250,7 @@ export const ordersData = [
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       'https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
@@ -2261,7 +2261,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2273,7 +2273,7 @@ export const ordersData = [
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       product6,
@@ -2284,7 +2284,7 @@ export const ordersData = [
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product5,
@@ -2295,7 +2295,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
     Location: 'New York',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product7,
@@ -2306,7 +2306,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
     Location: 'Germany',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product4,
@@ -2317,7 +2317,7 @@ export const ordersData = [
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
     Location: 'Spain',
-    Status: 'rejected',
+    Status: 'Reddedilmiş',
     StatusBg: 'red',
     ProductImage:
       product1,
@@ -2328,7 +2328,7 @@ export const ordersData = [
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product2,
@@ -2339,7 +2339,7 @@ export const ordersData = [
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product3,
@@ -2350,7 +2350,7 @@ export const ordersData = [
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
     Location: 'USA',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product4,
@@ -2361,7 +2361,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
@@ -2372,7 +2372,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2383,7 +2383,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-free-ice-cream-eae372d.jpg',
@@ -2394,7 +2394,7 @@ export const ordersData = [
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       'https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
@@ -2405,7 +2405,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2417,7 +2417,7 @@ export const ordersData = [
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       product6,
@@ -2428,7 +2428,7 @@ export const ordersData = [
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product5,
@@ -2439,7 +2439,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
     Location: 'New York',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product7,
@@ -2450,7 +2450,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
     Location: 'Germany',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product4,
@@ -2461,7 +2461,7 @@ export const ordersData = [
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
     Location: 'Spain',
-    Status: 'rejected',
+    Status: 'Reddedilmiş',
     StatusBg: 'red',
     ProductImage:
       product1,
@@ -2472,7 +2472,7 @@ export const ordersData = [
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product2,
@@ -2483,7 +2483,7 @@ export const ordersData = [
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product3,
@@ -2494,7 +2494,7 @@ export const ordersData = [
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
     Location: 'USA',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product4,
@@ -2505,7 +2505,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
@@ -2516,7 +2516,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2527,7 +2527,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-free-ice-cream-eae372d.jpg',
@@ -2538,7 +2538,7 @@ export const ordersData = [
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       'https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
@@ -2549,7 +2549,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2561,7 +2561,7 @@ export const ordersData = [
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       product6,
@@ -2572,7 +2572,7 @@ export const ordersData = [
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product5,
@@ -2583,7 +2583,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
     Location: 'New York',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product7,
@@ -2594,7 +2594,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
     Location: 'Germany',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product4,
@@ -2605,7 +2605,7 @@ export const ordersData = [
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
     Location: 'Spain',
-    Status: 'rejected',
+    Status: 'Reddedilmiş',
     StatusBg: 'red',
     ProductImage:
       product1,
@@ -2616,7 +2616,7 @@ export const ordersData = [
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product2,
@@ -2627,7 +2627,7 @@ export const ordersData = [
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product3,
@@ -2638,7 +2638,7 @@ export const ordersData = [
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
     Location: 'USA',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product4,
@@ -2649,7 +2649,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
@@ -2660,7 +2660,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2671,7 +2671,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-free-ice-cream-eae372d.jpg',
@@ -2682,7 +2682,7 @@ export const ordersData = [
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       'https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
@@ -2693,7 +2693,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2705,7 +2705,7 @@ export const ordersData = [
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       product6,
@@ -2716,7 +2716,7 @@ export const ordersData = [
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product5,
@@ -2727,7 +2727,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
     Location: 'New York',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product7,
@@ -2738,7 +2738,7 @@ export const ordersData = [
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
     Location: 'Germany',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product4,
@@ -2749,7 +2749,7 @@ export const ordersData = [
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
     Location: 'Spain',
-    Status: 'rejected',
+    Status: 'Reddedilmiş',
     StatusBg: 'red',
     ProductImage:
       product1,
@@ -2760,7 +2760,7 @@ export const ordersData = [
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       product2,
@@ -2771,7 +2771,7 @@ export const ordersData = [
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       product3,
@@ -2782,7 +2782,7 @@ export const ordersData = [
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
     Location: 'USA',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       product4,
@@ -2793,7 +2793,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
     Location: 'USA',
-    Status: 'pending',
+    Status: 'bekliyor',
     StatusBg: '#FB9678',
     ProductImage:
       'https://cdn.shopclues.com/images1/thumbnails/104158/320/320/148648730-104158193-1592481791.jpg',
@@ -2804,7 +2804,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
@@ -2815,7 +2815,7 @@ export const ordersData = [
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
     Location: 'USA',
-    Status: 'active',
+    Status: 'aktif',
     StatusBg: '#03C9D7',
     ProductImage:
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-free-ice-cream-eae372d.jpg',
@@ -2826,7 +2826,7 @@ export const ordersData = [
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
     Location: 'Delhi',
-    Status: 'complete',
+    Status: 'Tamamlandı',
     StatusBg: '#8BE78B',
     ProductImage:
       'https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
@@ -2837,7 +2837,7 @@ export const ordersData = [
     TotalAmount: 122.99,
     OrderItems: 'Watch',
     Location: 'USA',
-    Status: 'canceled',
+    Status: 'İptal edildi',
     StatusBg: '#FF5C8E',
     ProductImage:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-womens-garmin-watches-1641919013.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*',
