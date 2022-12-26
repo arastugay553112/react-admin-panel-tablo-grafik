@@ -21,7 +21,7 @@ const Calisan = () => {
           <ColumnDirective key={index} {...item}/>
         ))}
         </ColumnsDirective>
-        <Inject services={[Page,Toolbar]}/>
+        <Inject services={[Page,Search,Toolbar]}/>
       </GridComponent>
     </div>
   )

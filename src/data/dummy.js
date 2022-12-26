@@ -393,39 +393,39 @@ export const LinePrimaryYAxis = {
 
 export const customersGrid = [
   { type: 'checkbox', width: '50' },
-  { headerText: 'Name',
+  { headerText: 'Adı',
     width: '150',
     template: customerGridImage,
     textAlign: 'Center' },
   { field: 'ProjectName',
-    headerText: 'Project Name',
+    headerText: 'Proje Adı',
     width: '150',
     textAlign: 'Center' },
   { field: 'Status',
-    headerText: 'Status',
+    headerText: 'Durum',
     width: '130',
     format: 'yMd',
     textAlign: 'Center',
     template: customerGridStatus },
   {
     field: 'Weeks',
-    headerText: 'Weeks',
+    headerText: 'Haftalar',
     width: '100',
     format: 'C2',
     textAlign: 'Center' },
   { field: 'Budget',
-    headerText: 'Budget',
+    headerText: 'Bütçe',
     width: '100',
     format: 'yMd',
     textAlign: 'Center' },
 
   { field: 'Location',
-    headerText: 'Location',
+    headerText: 'Konum',
     width: '150',
     textAlign: 'Center' },
 
   { field: 'CustomerID',
-    headerText: 'Customer ID',
+    headerText: 'Müsteri ID',
     width: '120',
     textAlign: 'Center',
     isPrimaryKey: true,
@@ -434,7 +434,7 @@ export const customersGrid = [
 ];
 
 export const employeesGrid = [
-  { headerText: 'Employee',
+  { headerText: 'Müsteri',
     width: '150',
     template: gridEmployeeProfile,
     textAlign: 'Center' },
@@ -444,27 +444,27 @@ export const employeesGrid = [
     textAlign: 'Center',
   },
   { field: 'Title',
-    headerText: 'Designation',
+    headerText: 'Atama',
     width: '170',
     textAlign: 'Center',
   },
-  { headerText: 'Country',
+  { headerText: 'Ülke',
     width: '120',
     textAlign: 'Center',
     template: gridEmployeeCountry },
 
   { field: 'HireDate',
-    headerText: 'Hire Date',
+    headerText: 'İşe Alım Tarihi',
     width: '135',
     format: 'yMd',
     textAlign: 'Center' },
 
   { field: 'ReportsTo',
-    headerText: 'Reports To',
+    headerText: 'Raporlar',
     width: '120',
     textAlign: 'Center' },
   { field: 'EmployeeID',
-    headerText: 'Employee ID',
+    headerText: 'Çalışan ID',
     width: '125',
     textAlign: 'Center' },
 ];
@@ -492,7 +492,7 @@ export const links = [
         icon: <IoMdContacts />,
       },
       {
-        name: 'musteriler',
+        name: 'musteri',
         icon: <RiContactsLine />,
       },
     ],
@@ -1485,7 +1485,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1495,7 +1495,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1515,7 +1515,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1535,7 +1535,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1555,7 +1555,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1566,7 +1566,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1586,7 +1586,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1606,7 +1606,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1626,7 +1626,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1636,7 +1636,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1656,7 +1656,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1676,7 +1676,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1696,7 +1696,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1707,7 +1707,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1727,7 +1727,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1747,7 +1747,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1767,7 +1767,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1778,7 +1778,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1798,7 +1798,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1818,7 +1818,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1838,7 +1838,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1849,7 +1849,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1869,7 +1869,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1889,7 +1889,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1909,7 +1909,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1920,7 +1920,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1940,7 +1940,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1960,7 +1960,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1980,7 +1980,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -1991,7 +1991,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2011,7 +2011,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2031,7 +2031,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2051,7 +2051,7 @@ export const employeesData = [
   {
     EmployeeID: 1,
     Name: 'Nancy Davolio',
-    Title: 'Sales Representative',
+    Title: 'Satış Temsilcisi',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2062,7 +2062,7 @@ export const employeesData = [
   {
     EmployeeID: 2,
     Name: 'Nasimiyu Danai',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2082,7 +2082,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Siegbert Gottfried',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
@@ -2102,7 +2102,7 @@ export const employeesData = [
   {
     EmployeeID: 4,
     Name: 'Penjani Inyene',
-    Title: 'Marketing Head',
+    Title: 'Pazarlama Başkanı',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
