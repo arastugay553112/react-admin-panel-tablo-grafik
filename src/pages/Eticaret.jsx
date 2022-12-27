@@ -7,6 +7,9 @@ import {earningData,SparklineAreaData,ecomPieChartData} from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 
 const Eticaret = () => {
+
+  const {currentColor}=useStateContext();
+
   return (
     <div className='mt-12'>
       <div className='flex flex-wrap lg:flex-nowrap justify-center'>
@@ -21,7 +24,7 @@ const Eticaret = () => {
         </div>
         <div className='mt-6'>
           <Button color="white"
-          bgColor="blue" text="indir"
+          bgColor={currentColor} text="indir"
           borderRadius="10px"
           size="md"
           />
@@ -101,17 +104,17 @@ const Eticaret = () => {
               </p>
             </div>
             <div className='mt-5'>
-            <SparkLine currentColor="blue" 
+            <SparkLine currentColor={currentColor} 
               id='line-sparkline'
               type='Line' 
               height='80px' 
               width='250px' 
               data={SparklineAreaData}
-              color='blue'/>
+              color={currentColor}/>
             </div>
             <div className='mt-10'>
               <Button color='white'
-              bgColor='blue'
+              bgColor={currentColor}
               text='Raporu İndir'
               borderRadius='10px'/>
             </div>
