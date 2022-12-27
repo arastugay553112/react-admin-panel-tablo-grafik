@@ -7,7 +7,7 @@ import {Navbar,Footer,Sidebar,ThemeSettings} from './components';
 
 import {Eticaret,Siparis,Takvim,Calisan,Yigin,Piramid,
 Musteri,Kanban,Area,Bar,Pie,Finansal,RenkEslemesi,RenkSecici
-,Yonetici,Line} from './pages';
+,Editor,Line} from './pages';
 
 import { useStateContext } from './contexts/ContextProvider';
 
@@ -59,7 +59,7 @@ const App = () => {
 
            {/*Apps */}
           <Route path='/kanban' element={<Kanban />} />
-          <Route path='/yonetici' element={<Yonetici />} />
+          <Route path='/editor' element={<Editor />} />
           <Route path='/takvim' element={<Takvim />} />
           <Route path='/renk-secenegi' element={<RenkSecici />} />
 

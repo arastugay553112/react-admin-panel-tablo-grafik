@@ -5,7 +5,7 @@ export {default as Musteri} from './Musteri';
 export {default as RenkSecici} from './RenkSecici';
 export {default as Siparis} from './Siparis';
 export {default as Takvim} from './Takvim';
-export {default as Yonetici} from './Yonetici';
+export {default as Editor} from './Editor';
 export {default as Area} from './Charts/Area';
 export {default as Bar} from './Charts/Area';
 export {default as Pie} from './Charts/Pie';
