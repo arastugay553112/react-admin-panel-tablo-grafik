@@ -519,10 +519,10 @@ export const links = [
     ],
   },
   {
-    title: 'Charts',
+    title: 'Çizelgeler',
     links: [
       {
-        name: 'line',
+        name: 'cizgi',
         icon: <AiOutlineStock />,
       },
       {
@@ -3068,6 +3068,15 @@ export const lineChartData = [
     { x: new Date(2010, 0, 1), y: 70 },
     { x: new Date(2011, 0, 1), y: 100 },
   ],
+  [
+    { x: new Date(2005, 0, 1), y: 8 },
+    { x: new Date(2006, 0, 1), y: 50 },
+    { x: new Date(2007, 0, 1), y: 29 },
+    { x: new Date(2008, 0, 1), y: 49 },
+    { x: new Date(2009, 0, 1), y: 70 },
+    { x: new Date(2010, 0, 1), y: 90 },
+    { x: new Date(2011, 0, 1), y: 98 },
+  ],
 ];
 export const dropdownData = [
   {
@@ -3115,6 +3124,14 @@ export const lineCustomSeries = [
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line' },
+
+    { dataSource: lineChartData[3],
+      xName: 'x',
+      yName: 'y',
+      name: 'Turkey',
+      width: '2',
+      marker: { visible: true, width: 10, height: 10 },
+      type: 'Line' },
 
 ];
 
