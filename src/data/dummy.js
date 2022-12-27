@@ -44,20 +44,20 @@ export const gridOrderStatus = (props) => (
 );
 
 export const kanbanGrid = [
-  { headerText: 'To Do',
+  { headerText: 'Yapılacaklar',
     keyField: 'Open',
     allowToggle: true },
 
-  { headerText: 'In Progress',
+  { headerText: 'Devam Eden',
     keyField: 'InProgress',
     allowToggle: true },
 
-  { headerText: 'Testing',
+  { headerText: 'Test Ediliyor',
     keyField: 'Testing',
     allowToggle: true,
     isExpanded: false },
 
-  { headerText: 'Done',
+  { headerText: 'Bitti',
     keyField: 'Close',
     allowToggle: true },
 ];
