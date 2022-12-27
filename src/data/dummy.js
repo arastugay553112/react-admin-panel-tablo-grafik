@@ -513,7 +513,7 @@ export const links = [
         icon: <FiEdit />,
       },
       {
-        name: 'color-picker',
+        name: 'renk-secici',
         icon: <BiColorFill />,
       },
     ],

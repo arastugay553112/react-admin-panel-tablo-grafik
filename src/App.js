@@ -47,6 +47,8 @@ const App = () => {
           <Navbar />
         </div>
         <div>
+          <ThemeSettings />
+
           {/* Gösterge Paneli*/}
           <Routes>
             <Route path='/' element={<Eticaret />} />
@@ -61,7 +63,7 @@ const App = () => {
           <Route path='/kanban' element={<Kanban />} />
           <Route path='/editor' element={<Editor />} />
           <Route path='/takvim' element={<Takvim />} />
-          <Route path='/renk-secenegi' element={<RenkSecici />} />
+          <Route path='/renk-secici' element={<RenkSecici />} />
 
             {/*Grafikler */}
           <Route path='/cizgi' element={<Line />} />
