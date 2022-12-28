@@ -207,6 +207,18 @@ const areaChartData = [
     { x: new Date(2010, 0, 1), y: 1.1 },
     { x: new Date(2011, 0, 1), y: 2.3 },
   ],
+  [
+    { x: new Date(2002, 0, 1), y: 3.8 },
+    { x: new Date(2003, 0, 1), y: 3.3 },
+    { x: new Date(2004, 0, 1), y: 1.1 },
+    { x: new Date(2005, 0, 1), y: 2.6 },
+    { x: new Date(2006, 0, 1), y: 0 },
+    { x: new Date(2007, 0, 1), y: 3.7 },
+    { x: new Date(2008, 0, 1), y: 3.3 },
+    { x: new Date(2009, 0, 1), y: 2.7 },
+    { x: new Date(2010, 0, 1), y: 2.1 },
+    { x: new Date(2011, 0, 1), y: 1.3 },
+  ],
 ];
 
 export const areaCustomSeries = [
@@ -234,6 +246,15 @@ export const areaCustomSeries = [
     xName: 'x',
     yName: 'y',
     name: 'Germany',
+    opacity: '0.8',
+    type: 'SplineArea',
+    width: '2',
+  },
+  {
+    dataSource: areaChartData[3],
+    xName: 'x',
+    yName: 'y',
+    name: 'Türkiye',
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
@@ -3136,13 +3157,13 @@ export const lineCustomSeries = [
 ];
 
 export const pieChartData = [
-  { x: 'Labour', y: 18, text: '18%' },
-  { x: 'Legal', y: 8, text: '8%' },
-  { x: 'Production', y: 15, text: '15%' },
-  { x: 'License', y: 11, text: '11%' },
-  { x: 'Facilities', y: 18, text: '18%' },
-  { x: 'Taxes', y: 14, text: '14%' },
-  { x: 'Insurance', y: 16, text: '16%' },
+  { x: 'İş Gücü', y: 18, text: '18%' },
+  { x: 'Yasal', y: 8, text: '8%' },
+  { x: 'Üretim', y: 15, text: '15%' },
+  { x: 'Lisans', y: 11, text: '11%' },
+  { x: 'Tesisler', y: 18, text: '18%' },
+  { x: 'Vergiler', y: 14, text: '14%' },
+  { x: 'Sigorta', y: 16, text: '16%' },
 ];
 
 export const contextMenuItems = [
