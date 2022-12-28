@@ -284,7 +284,7 @@ export const barCustomSeries = [
     dataSource: barChartData[0],
     xName: 'x',
     yName: 'y',
-    name: 'Gold',
+    name: 'Altın',
     type: 'Column',
     marker: {
       dataLabel: {
@@ -298,7 +298,7 @@ export const barCustomSeries = [
     dataSource: barChartData[1],
     xName: 'x',
     yName: 'y',
-    name: 'Silver',
+    name: 'Gümüş',
     type: 'Column',
     marker: {
       dataLabel: {
@@ -312,7 +312,7 @@ export const barCustomSeries = [
     dataSource: barChartData[2],
     xName: 'x',
     yName: 'y',
-    name: 'Bronze',
+    name: 'Bronz',
     type: 'Column',
     marker: {
       dataLabel: {
@@ -322,6 +322,7 @@ export const barCustomSeries = [
       },
     },
   },
+  
 ];
 export const colorMappingData = [
   [

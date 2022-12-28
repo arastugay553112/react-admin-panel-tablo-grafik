@@ -7,7 +7,7 @@ export {default as Siparis} from './Siparis';
 export {default as Takvim} from './Takvim';
 export {default as Editor} from './Editor';
 export {default as Area} from './Charts/Area';
-export {default as Bar} from './Charts/Area';
+export {default as Bar} from './Charts/Bar';
 export {default as Pie} from './Charts/Pie';
 export {default as Finansal} from './Charts/Finansal';
 export {default as Piramid} from './Charts/Piramid';

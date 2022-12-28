@@ -6,8 +6,8 @@ import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 import {Navbar,Footer,Sidebar,ThemeSettings} from './components';
 
 import {Eticaret,Siparis,Takvim,Calisan,Yigin,Piramid,
-Musteri,Kanban,Area,Bar,Pie,Finansal,RenkEslemesi,RenkSecici
-,Editor,Line} from './pages';
+Musteri,Kanban,Area,Pie,Finansal,RenkEslemesi,RenkSecici
+,Editor,Line,Bar} from './pages';
 
 import { useStateContext } from './contexts/ContextProvider';
 
