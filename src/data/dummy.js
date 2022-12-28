@@ -326,18 +326,18 @@ export const barCustomSeries = [
 ];
 export const colorMappingData = [
   [
-    { x: 'Jan', y: 6.96 },
-    { x: 'Feb', y: 8.9 },
-    { x: 'Mar', y: 12 },
-    { x: 'Apr', y: 17.5 },
-    { x: 'May', y: 22.1 },
-    { x: 'June', y: 25 },
-    { x: 'July', y: 29.4 },
-    { x: 'Aug', y: 29.6 },
-    { x: 'Sep', y: 25.8 },
-    { x: 'Oct', y: 21.1 },
-    { x: 'Nov', y: 15.5 },
-    { x: 'Dec', y: 9.9 },
+    { x: 'Ocak', y: 0.96 },
+    { x: 'Subat', y: 1.9 },
+    { x: 'Mart', y: 3 },
+    { x: 'Nisan', y: 14.5 },
+    { x: 'Mayıs', y: 22.1 },
+    { x: 'Haziran', y: 33.4 },
+    { x: 'Temmuz', y: 34.4 },
+    { x: 'Ağustos', y: 35 },
+    { x: 'Eylül', y: 32.8 },
+    { x: 'Ekim', y: 25.1 },
+    { x: 'Kasım', y: 9.5 },
+    { x: 'Aralık', y: 0.9 },
   ],
   ['#FFFF99'],
   ['#FFA500'],
@@ -355,9 +355,9 @@ export const rangeColorMapping = [
     end: '20',
     colors: colorMappingData[2] },
 
-  { label: '21°C to 30°C',
+  { label: '21°C to 35°C',
     start: '21',
-    end: '30',
+    end: '35',
     colors: colorMappingData[3] },
 
 ];
@@ -565,7 +565,7 @@ export const links = [
         icon: <RiStockLine />,
       },
       {
-        name: 'renk-secici',
+        name: 'renk-eslemesi',
         icon: <BsBarChart />,
       },
       {
