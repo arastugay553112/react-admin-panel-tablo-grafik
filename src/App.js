@@ -76,7 +76,7 @@ const App = () => {
           <Route path='/finansal' element={<Finansal />} />
           <Route path='/renk-eslemesi' element={<RenkEslemesi />} />
           <Route path='/piramid' element={<Piramid />} />
-          <Route path='/yigilmis' element={<Yigin />} />
+          <Route path='/yigin' element={<Yigin />} />
          </Routes>
         </div>
         </div>
